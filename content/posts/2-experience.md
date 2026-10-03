@@ -3,11 +3,19 @@ date: 2024-07-07T12:00:00-00:00
 title: "💼 Experience"
 description: "jobs"
 ---
+# Game infrastructure developer. Wargaming – Nicosia, Cyprus
+![wg](/images/wg.png)
+
+March 2026 - Present
+* Solving tasks aimed at 
+    * improvement of game reliability and observeability
+    * Reducing costs on AWS infrastructure
+* Developing intenal tools for administrating game enitties (users, game currencies, battle statistics, etc)
 
 # DevOps Engineer. SKB Kontur – Ekaterinburg, Russia
 ![kontur_logo](/images/kontur.png)
 
-January 2021 – Present (except April 2024 – November 2024)
+January 2021 – March 2026 (except April 2024 – November 2024)
 * Developed CI/CD pipelines using GitLab CI and TeamCity to streamline software delivery.
 * Created and maintained Helm charts for Kubernetes applications.
 * Automated infrastructure provisioning using Terraform and Ansible.
