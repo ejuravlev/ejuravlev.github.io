@@ -5,13 +5,13 @@ description: "tools"
 ---
 *Hosting*: Kubernetes, Docker, Linux
 
-*Continious Integration*: Teamcity, Gitlab, Jenkins
+*Continuous Integration*: TeamCity, GitLab, Jenkins
 
 *IaC*: Ansible, Terraform
 
 *Development*: Java Spring, C# ASP.NET Framework, Golang
 
-*Scripting*: Bash, Powershell, Python
+*Scripting*: Bash, PowerShell, Python
 
 *Load Balancing*: Nginx
 

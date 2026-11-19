@@ -6,11 +6,11 @@ description: "jobs"
 # Game infrastructure developer. Wargaming – Nicosia, Cyprus
 ![wg](/images/wg.png)
 
-March 2026 - Present
+March 2026 – Present
 * Solving tasks aimed at:
-    * improvement of game reliability and observeability
+    * Improvement of game reliability and observability
     * Reducing costs on AWS infrastructure
-* Developing internal tools for administrating game enities (users, game currencies, battle statistics, etc)
+* Developing internal tools for administering game entities (users, game currencies, battle statistics, etc)
 
 # DevOps Engineer. SKB Kontur – Ekaterinburg, Russia
 ![kontur_logo](/images/kontur.png)
@@ -38,10 +38,11 @@ April 2024 – November 2024
 - Refactored and extended GitOps systems, eliminating manual operations and reducing the risk of human error–induced incidents.
 
 # Systems Engineer. Group of Companies – Ekaterinburg, Russia
-2019 – 2021
 ![host_logo](/images/host.png)
+
+2019 – 2021
 * Maintained physical server hardware: deployment, diagnostics, and repairs.
-* Managed virtual environments using VMWare vSphere and ESXi.
+* Managed virtual environments using VMware vSphere and ESXi.
 * Worked closely with network and storage infrastructure teams to ensure system stability.
 
 ## Achievements
