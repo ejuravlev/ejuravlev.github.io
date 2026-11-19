@@ -7,10 +7,10 @@ description: "jobs"
 ![wg](/images/wg.png)
 
 March 2026 - Present
-* Solving tasks aimed at 
+* Solving tasks aimed at:
     * improvement of game reliability and observeability
     * Reducing costs on AWS infrastructure
-* Developing intenal tools for administrating game enitties (users, game currencies, battle statistics, etc)
+* Developing internal tools for administrating game enities (users, game currencies, battle statistics, etc)
 
 # DevOps Engineer. SKB Kontur – Ekaterinburg, Russia
 ![kontur_logo](/images/kontur.png)
